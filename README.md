@@ -1,5 +1,5 @@
-![Screenshot](output_MFE8LS.gif)
-# Food_Detection
+
+# burgernfries
 Food detection using Tensorflow Object Detection API
 
 [Instructions are adapted from https://github.com/wagonhelm/TF_ObjectDetection_API/blob/master/README.md ]
